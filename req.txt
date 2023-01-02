@@ -1,0 +1,11 @@
+
+
+Speed force server
+This is the backend server application for the speed force game
+
+Features:
+- Users can signup with email, fullname, game device id
+- Users can login with email and confirmation code
+- Users can update profiledata (including latest score, bwallet balance etc.. )
+- Users can view leaderboard data
+- Admin can add user to leaderboard and edit leaderboard data
